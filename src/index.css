@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream-50: #FAF7F2;
+  --color-cream-100: #F5EFE6;
+  --color-cream-200: #E8DFD1;
+  --color-warm-beige: #E6D5B8;
+  --color-soft-taupe: #4A3E3D;
+  --bg-gradient-to-b;
+}
+
+body {
+  background-color: var(--color-cream-50);
+  color: #333333;
+  font-family: system-ui, -apple-system, sans-serif;
+}
