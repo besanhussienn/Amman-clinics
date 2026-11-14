@@ -6,7 +6,8 @@
   --color-cream-200: #E8DFD1;
   --color-warm-beige: #E6D5B8;
   --color-soft-taupe: #4A3E3D;
-  --bg-gradient-to-b;
+  /* --bg-gradient-to-b; */
+  --bg-main-gradient: linear-gradient(to bottom, #FAF7F2, #E8DFD1);
 }
 
 body {

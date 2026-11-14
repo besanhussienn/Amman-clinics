@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer className="bg-stone-900 text-stone-300 pt-16 pb-12 border-t border-stone-800">
+        <footer id ="Contactus" className="bg-stone-900 text-stone-300 pt-16 pb-12 border-t border-stone-800">
             <div className="max-w-6xl mx-auto px-6">
                 {/* Main Footer Grid (3 Columns) */}
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-10 pb-12 border-b border-stone-800">
